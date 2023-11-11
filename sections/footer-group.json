@@ -4,6 +4,18 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "4fd7200b-5756-4b07-98b0-89eb80a74b9e": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Länkar",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "4fd7200b-5756-4b07-98b0-89eb80a74b9e"
+      ],
       "settings": {
         "color_scheme": "accent-2",
         "newsletter_enable": false,
