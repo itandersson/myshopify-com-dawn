@@ -3590,4 +3590,8 @@ details-disclosure > details {
   .header-wrapper {
     background-color: #8debe6 !important;
   }
+
+  .footer {
+    background-color: #8debe6 !important;
+  }
 }
