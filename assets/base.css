@@ -3587,7 +3587,7 @@ details-disclosure > details {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
 
-  .header-wrapper {
+  .header {
     background-color: #8debe6 !important;
     color: black !important;
   }
