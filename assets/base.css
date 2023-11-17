@@ -3592,8 +3592,8 @@ details-disclosure > details {
     color: black !important;
   }
 
-  .footer {
+  footer.footer.color-accent-2.gradient.section-sections--20032322273619__footer-padding {
     background-color: #8debe6 !important;
-    color: black !important;
-  }
+    --color-foreground: black;
+}
 }
