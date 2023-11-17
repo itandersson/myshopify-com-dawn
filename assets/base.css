@@ -3587,10 +3587,10 @@ details-disclosure > details {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
   }
 
-  .header-wrapper {
-    background-color: #8debe6 !important;
-    color: black !important;
-  }
+  sticky-header.header-wrapper.color-background-1.gradient.header-wrapper--border-bottom {
+    background-color: #8debe6!important;
+    --color-foreground: black;
+}
 
   footer.footer.color-accent-2.gradient.section-sections--20032322273619__footer-padding {
     background-color: #8debe6 !important;
