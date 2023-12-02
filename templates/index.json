@@ -6,8 +6,8 @@
         "template--20032322961747__80dcf8aa-534c-4964-9f7c-bb6e651d049b-column-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Smartklockor",
+            "text": "<p>Smartklockor som finns i olika storlekar, former och färger. Beställ din smartklocka idag och upptäck en helt ny värld på din handled! <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -15,8 +15,8 @@
         "template--20032322961747__80dcf8aa-534c-4964-9f7c-bb6e651d049b-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Mobiler",
+            "text": "<p>Vi har mobiler som inte bara är enheter för att ringa och skicka meddelanden, utan också kraftfulla datorer som kan göra nästan allt du kan tänka dig. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -24,8 +24,8 @@
         "template--20032322961747__80dcf8aa-534c-4964-9f7c-bb6e651d049b-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Läsplattor",
+            "text": "<p>Våra läsplattor är lätta, tunna, bärbara, med stor lagringskapacitet, snabb prestanda och andra praktiska egenskaper. Läsplattor är den perfekta presenten.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -37,15 +37,15 @@
         "template--20032322961747__80dcf8aa-534c-4964-9f7c-bb6e651d049b-column-3"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Vi säljer",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "button_label": "Om oss",
+        "button_link": "shopify:\/\/pages\/who-we-are",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
