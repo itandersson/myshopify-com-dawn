@@ -6,7 +6,7 @@
         "template--20032322961747__80dcf8aa-534c-4964-9f7c-bb6e651d049b-column-1": {
           "type": "column",
           "settings": {
-            "title": "Smartklockor",
+            "title": "<a href=\"\/collections\/frontpage\" target=\"_blank\" title=\"Smartklockor\">Smartklockor<\/a>",
             "text": "<p>Smartklockor som finns i olika storlekar, former och färger. Beställ din smartklocka idag och upptäck en helt ny värld på din handled! <\/p>",
             "link_label": "",
             "link": ""
@@ -15,7 +15,7 @@
         "template--20032322961747__80dcf8aa-534c-4964-9f7c-bb6e651d049b-column-2": {
           "type": "column",
           "settings": {
-            "title": "Telefoner",
+            "title": "<a href=\"\/collections\/mobiler\" target=\"_blank\" title=\"Telefoner\">Telefoner<\/a>",
             "text": "<p>Vi har mobiler som inte bara är enheter för att ringa och skicka meddelanden, utan också kraftfulla datorer som kan göra nästan allt du kan tänka dig. <\/p>",
             "link_label": "",
             "link": ""
@@ -24,7 +24,7 @@
         "template--20032322961747__80dcf8aa-534c-4964-9f7c-bb6e651d049b-column-3": {
           "type": "column",
           "settings": {
-            "title": "Läsplattor",
+            "title": "<a href=\"\/collections\/lasplattor\" target=\"_blank\" title=\"Läsplattor\">Läsplattor<\/a>",
             "text": "<p>Våra läsplattor är lätta, tunna, bärbara, med stor lagringskapacitet, snabb prestanda och andra praktiska egenskaper. Läsplattor är den perfekta presenten.<\/p>",
             "link_label": "",
             "link": ""
